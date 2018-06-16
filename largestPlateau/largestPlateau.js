@@ -16,7 +16,7 @@ function largestPlateau(map) {
     for (r = 0; r < rows; r++) {
         for (l = 0; l < columns; l++) {
             var currentValue = map[r][l];
-            var plateauSize = checkRightCell(map, r, l, map[r][l], 0);
+            var plateauSize = checkNextCell(map, r, l, map[r][l], 0);
 
             if (plateauSize > maxPlateau) {
                 maxPlateau = plateauSize;
@@ -62,6 +62,4 @@ function checkNextCell(map, row, column, currentValue, currentCount) {
     } 
 
     return currentCount;
-
-    
 }
