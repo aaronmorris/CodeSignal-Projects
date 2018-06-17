@@ -1,3 +1,4 @@
+<a href="https://codefights.com/challenge/q7EPCASrwtLwF5ejn" target="_blank">Code Fights - Daily Challenge - secretNumber</a>
 <div class="markdown"><p>Your rocket has arrived safely back to your home on Earth's moon, and you've already received a letter from one of your Martian pen pals! You're excited to read what it says but the text is encrypted, so you'll need to figure out the secret cipher (a number that can be used to decode the message).</p>
 <p>To help you find the secret cipher, your pen pal enclosed some hints:</p>
 <ul>
