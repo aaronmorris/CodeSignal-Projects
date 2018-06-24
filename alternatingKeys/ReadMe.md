@@ -1,4 +1,4 @@
-<div><a href="https://codefights.com/challenge/pcHsPcqKBoiQjJyCx" tareget="_blank">Code Fights - alternatingKeys</a></div>
+<div><a href="https://codefights.com/challenge/pcHsPcqKBoiQjJyCx" target="_blank">Code Fights - alternatingKeys</a></div>
 <div class="markdown"><p>You're a pretty fast typer - each keystroke takes you 75 milliseconds, but if you're able to use a different hand than the previous key, it only takes you 50.</p>
 <p>You use your left hand for the Q, W, E, R, T, A, S, D, F, G, Z, X, C, V, and B keys, and you use your right hand for the Y, U, I, O, P, H, J, K, L, N, and M keys. You can use either hand for the spacebar.</p>
 <p><img src="https://i.imgur.com/X1BGCyc.png" alt="keyboard layout"><br>
