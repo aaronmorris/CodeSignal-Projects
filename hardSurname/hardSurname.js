@@ -5,17 +5,11 @@ function hardSurname(surname) {
 	var count = 0;
 
 	for(var c of surname) {
-		if (vowels.indexOf(c) == -1) {
-			count++;
-		}
-		else
-		{
-			max = Math.max(max, count);
-			count = 0;
-		}
+		count = vowels.indexOf(c) >= 0 ? 0 : count + 1;
+		max = Math.max(max, count);
 	}
 
-	return Math.max(max, count);;
+	return max;
 }
 
 console.log('Blaszczykowski = 6');
