@@ -1,4 +1,4 @@
-<div><a href="https://codefights.com/challenge/4PLW8uTndBKB7FghP" target="_blank">Code Fights - hardSurname
+<div><a href="https://codefights.com/challenge/4PLW8uTndBKB7FghP" target="_blank">Code Fights - hardSurname</a></div>
 <div class="markdown"><p>World Cup is here! For most people it is one of the greatest events in their lives, but for commentators it is a huge trouble! It is a real challenge for them to pronounce such complicated names that they are dealing with.</p>
 <p><img src="https://codefightsuserpics.s3.amazonaws.com/tasks/hardSurname/img/commentators.gif?_tm=1530554287794" alt=""></p>
 <p>Given the surname of a player, determine how hard it is to pronounce. We assume that the <em>difficulty</em> of the surname is the maximum number of consecutive consonants in it.</p>
