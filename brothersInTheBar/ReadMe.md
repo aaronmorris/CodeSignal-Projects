@@ -1,5 +1,4 @@
 <div><a href='https://app.codesignal.com/challenge/dHjGPiEYFFcrwKMip' target='_blank'>codeSignal - brothersInTheBar</a></div><br />
-<div>This fails because of the time limit</div><br />
 <div class="markdown"><p>Three brothers walk into a bar. All the beverages are placed in one line at the long bar table. The size of each glass is represented in an array of integers, <code>glasses</code>.</p>
 <p>The brothers will drink a round if they can find <code>3</code> <strong>consecutive</strong> glasses of the same size. The barman removes the empty glasses from the table immediately after each round.</p>
 <p>Find the maximum number of rounds the three brothers can drink.</p>
